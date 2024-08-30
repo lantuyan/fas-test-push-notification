@@ -131,3 +131,8 @@ dist
 
 # Directory used by Appwrite CLI for local development
 .appwrite
+/.idea/fas-test-push-notification.iml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/vcs.xml
+/.idea/workspace.xml
